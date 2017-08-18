@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51" started-at="2017-06-08T06:05:37Z" finished-at="2017-06-08T06:05:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51" started-at="2017-06-08T06:05:37Z" finished-at="2017-06-08T06:05:37Z">
+      <class name="pkg01.sampleFactory">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeClass" is-config="true" duration-ms="8" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="testCase1" duration-ms="4" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:pkg01.sampleFactory@5034c75a]" name="testCase2" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="testCase2" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="beforeClass" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:pkg01.sampleFactory@5034c75a]" name="testCase1" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pkg01.sampleFactory@396a51ab]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-06-08T11:35:37Z" finished-at="2017-06-08T11:35:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- pkg01.sampleFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

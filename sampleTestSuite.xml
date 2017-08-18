@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuiteDemo" parallel="none" preserve-order="true">
+
+<test name="Test1">
+    <classes>
+		<class name="com.sample.testng.SuiteSample1"/>
+		<class name="com.sample.testng.SuiteSample2"/>
+	</classes>
+</test>
+
+<test name="Test2">	
+	<classes>
+		<class name="com.sample.testng.SuiteSample1">
+		<methods>
+		<exclude name="testCase1" ></exclude>
+		<exclude name="testCase2" ></exclude>
+		</methods>
+		</class>
+	</classes>
+</test>
+
+<test name="GroupTest">	
+	<groups>
+      <run>
+      <include name="group3" />
+	  <include name="group1" />
+      </run>
+   </groups>
+   <classes>
+   <class name="com.sample.testng.SuiteSample1" />
+   <class name="com.sample.testng.SuiteSample2" />
+   </classes>
+</test>
+
+</suite>

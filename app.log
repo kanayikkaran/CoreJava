@@ -1,0 +1,54 @@
+2017-01-10 14:37:38.142 [main] INFO  pkg01.Cust - New Event
+2017-01-10 14:38:48.039 [main] INFO  pkg01.Cust - New new Event
+2017-02-14 11:50:16.844 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/Destination/Screenshots.zip
+2017-02-14 11:50:16.860 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 11:51:11.055 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/Destination/Screenshots.zip
+2017-02-14 11:51:11.055 [main] DEBUG problems.Zip - File Added : CBC140217105734\ClientList_AddBankRelationship2.jpg
+2017-02-14 11:51:11.055 [main] DEBUG problems.Zip - File Added : CBC140217105734\ClientList_ApproveOrDeleteBankRelationship3.jpg
+2017-02-14 11:51:11.055 [main] DEBUG problems.Zip - File Added : CBC140217105734\CreateParticipant2.jpg
+2017-02-14 11:51:11.071 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 11:55:16.224 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/Destination/Screenshots.zip
+2017-02-14 11:55:16.240 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 11:55:16.240 [main] DEBUG problems.Zip - File Added : SS01\SS01_002.jpg
+2017-02-14 11:55:16.240 [main] DEBUG problems.Zip - File Added : SS01\SS01_003.jpg
+2017-02-14 11:55:16.240 [main] DEBUG problems.Zip - File Added : SS02\SS02_001.jpg
+2017-02-14 11:55:16.255 [main] DEBUG problems.Zip - File Added : SS02\SS02_002.jpg
+2017-02-14 11:55:16.259 [main] DEBUG problems.Zip - File Added : SS02\SS02_003.jpg
+2017-02-14 11:55:16.259 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 11:59:24.120 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/Source/Screenshots.zip
+2017-02-14 11:59:24.120 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 11:59:24.120 [main] DEBUG problems.Zip - File Added : SS01\SS01_002.jpg
+2017-02-14 11:59:24.120 [main] DEBUG problems.Zip - File Added : SS01\SS01_003.jpg
+2017-02-14 11:59:24.135 [main] DEBUG problems.Zip - File Added : SS02\SS02_001.jpg
+2017-02-14 11:59:24.135 [main] DEBUG problems.Zip - File Added : SS02\SS02_002.jpg
+2017-02-14 11:59:24.151 [main] DEBUG problems.Zip - File Added : SS02\SS02_003.jpg
+2017-02-14 11:59:24.151 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 12:00:09.989 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/screenshots/Screenshots.zip
+2017-02-14 12:00:09.989 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 12:00:10.004 [main] DEBUG problems.Zip - File Added : SS01\SS01_002.jpg
+2017-02-14 12:00:10.004 [main] DEBUG problems.Zip - File Added : SS01\SS01_003.jpg
+2017-02-14 12:00:10.004 [main] DEBUG problems.Zip - File Added : SS02\SS02_001.jpg
+2017-02-14 12:00:10.004 [main] DEBUG problems.Zip - File Added : SS02\SS02_002.jpg
+2017-02-14 12:00:10.020 [main] DEBUG problems.Zip - File Added : SS02\SS02_003.jpg
+2017-02-14 12:00:10.020 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 12:05:42.058 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/screenshots/Screenshots.zip
+2017-02-14 12:05:42.058 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 12:05:42.058 [main] DEBUG problems.Zip - File Added : SS01\SS01_002.jpg
+2017-02-14 12:05:42.074 [main] DEBUG problems.Zip - File Added : SS01\SS01_003.jpg
+2017-02-14 12:05:42.074 [main] DEBUG problems.Zip - File Added : SS02\SS02_001.jpg
+2017-02-14 12:05:42.074 [main] DEBUG problems.Zip - File Added : SS02\SS02_002.jpg
+2017-02-14 12:05:42.074 [main] DEBUG problems.Zip - File Added : SS02\SS02_003.jpg
+2017-02-14 12:05:42.090 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 12:05:42.090 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/reports/Report.zip
+2017-02-14 12:05:42.090 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 12:56:20.759 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/screenshots/Screenshots.zip
+2017-02-14 12:56:20.764 [main] DEBUG problems.Zip - File Added : SS01\SS01_001.jpg
+2017-02-14 12:56:20.834 [main] DEBUG problems.Zip - File Added : SS01\SS01_002.jpg
+2017-02-14 12:56:20.853 [main] DEBUG problems.Zip - File Added : SS01\SS01_003.jpg
+2017-02-14 12:56:20.867 [main] DEBUG problems.Zip - File Added : SS02\SS02_001.jpg
+2017-02-14 12:56:20.890 [main] DEBUG problems.Zip - File Added : SS02\SS02_002.jpg
+2017-02-14 12:56:20.905 [main] DEBUG problems.Zip - File Added : SS02\SS02_003.jpg
+2017-02-14 12:56:20.924 [main] DEBUG problems.Zip - Zip successful
+2017-02-14 12:56:20.926 [main] DEBUG problems.Zip - Output to Zip : C:\Users\sachin.k\workspace\CoreJava/reports/Report.zip
+2017-02-14 12:56:20.926 [main] DEBUG problems.Zip - File Added : FastAR_TestReport.html
+2017-02-14 12:56:20.929 [main] DEBUG problems.Zip - Zip successful
